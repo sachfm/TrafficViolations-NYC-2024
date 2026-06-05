@@ -5,5 +5,5 @@ Jupyter notebooks added here. Most likely will contintinue to be added to as wel
 Final site that includes Jupyter notebook is located at https://sites.google.com/view/nyc-traffic-violations/
 
 Notebooks
-- EDA: first notebook which indluded ETL Process, EDA, and basic data visualizations
+- EDA: first notebook which includes ETL Process, EDA, and basic data visualizations
 - Time And Day: second notebook which features more advanced data viz like a heatmap as well as a predictive regression model. All focused around time and day variables / dataframes.
