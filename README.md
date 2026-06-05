@@ -2,7 +2,7 @@
 Created as a final project for PAD 676 Spring 2025
 
 Jupyter notebooks added here. Most likely will contintinue to be added to as well as cleaned up, and added to a larger portfolio / repository of polished data projects.
-Final site that includes Jupyter out is located at https://sites.google.com/view/nyc-traffic-violations/
+Final site that includes Jupyter notebook is located at https://sites.google.com/view/nyc-traffic-violations/
 
 Notebooks
 - EDA: first notebook which indluded ETL Process, EDA, and basic data visualizations
